@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practising the Github Flow
+I am a 32-year-old finance professional from Colombia, currently living in Cali and transitioning into the fields of data science and artificial intelligence. With a background in corporate finance, investment analysis, and revenue management, I am now pursuing an MSc in Data Science at Boston University. My main interests include machine learning, AI product management, generative AI, and MLOps. Outside of work and studies, I enjoy reading, traveling, and exploring technology-driven projects that combine business and data to generate impact.
